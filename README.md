@@ -9,6 +9,7 @@ I'll be uploading some basic files-eg very basic optimised configs for a public 
 ## Installation
 
 <10 players - vanilla | Standard minecraft software distributed by Mojang.
+
 10-15 players - Spigot | Allows use of plugins! Based off Bukkit (now CraftBukkit) 
 15-25 players - [Paper](https://papermc.io/) | Provides dupes and bug fixes over vanilla minecraft! Also a performance boost over spigot. <br />
 25-50 players - [Tuinity](https://ci.codemc.io/job/Spottedleaf/job/Tuinity/) | 'Experimental' and 'heavy' optimisations. Fork of paper, which means it includes the dupes and bug fixes. <br />
