@@ -6,10 +6,6 @@
 
 -------------------------------------------------------
 
-# Optimised Minecraft Server Configs
-
-Configuration files, optimised and tested. 
-
 ## Installation
 
 <10 players - vanilla | Standard minecraft software distributed by Mojang.
