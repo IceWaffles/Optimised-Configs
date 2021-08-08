@@ -6,8 +6,6 @@ I'll be uploading some basic files-eg very basic optimised configs for a public 
 
 
 
--------------------------------------------------------
-
 ## Installation
 
 <10 players - vanilla | Standard minecraft software distributed by Mojang.
