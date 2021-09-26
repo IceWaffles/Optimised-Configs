@@ -12,7 +12,7 @@ I'll be uploading some basic files-extremely basic optimised configs for a vanil
 
 10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) 
 
-15-50 players - [Paper](https://papermc.io/) | Provides dupes and bug fixes over vanilla minecraft! Also a performance boost over spigot. Recently merged in Tuinity for a massive performance boost. <br />
+15-50 players - [Paper](https://papermc.io/) | Provides dupes and bug fixes over vanilla minecraft! Recently merged in Tuinity for a massive performance boost! <br />
 
 50-100 - [Airplane](https://airplane.gg/) | Insane performance and optimisations. Do NOT use unless you have a very large server and must have the extra performance.
 
