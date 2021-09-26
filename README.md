@@ -8,7 +8,7 @@ I'll be uploading some basic files-extremely basic optimised configs for a vanil
 
 ## Installation
 
-<10 players - vanilla | Standard minecraft software distributed by Mojang.
+<10 players - [Vanilla](https://www.minecraft.net/en-us/download/server/) | Standard minecraft software distributed by Mojang.
 
 10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) 
 
