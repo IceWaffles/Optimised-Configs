@@ -2,7 +2,7 @@
 
 Hi, I’m @IceWaffles - you can also find me on discord at IceWaffles#3175 !
 I’m currently running a semi-vanilla survival server!
-I'll be uploading some basic files-eg very basic optimised configs for a public vanilla server.
+I'll be uploading some basic files-extremely basic optimised configs for a vanilla (default minecraft survival) server.
 
 
 
@@ -10,7 +10,7 @@ I'll be uploading some basic files-eg very basic optimised configs for a public 
 
 <10 players - vanilla | Standard minecraft software distributed by Mojang.
 
-10-15 players - Spigot | Allows use of plugins! Based off Bukkit (now CraftBukkit) 
+10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) 
 
 15-50 players - [Paper](https://papermc.io/) | Provides dupes and bug fixes over vanilla minecraft! Also a performance boost over spigot. Recently merged in Tuinity for a massive performance boost. <br />
 
