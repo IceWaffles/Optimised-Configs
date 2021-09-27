@@ -157,7 +157,7 @@ world-settings:
     water-over-lava-flow-speed: 5
     grass-spread-tick-rate: 4
     use-faster-eigencraft-redstone: true
-    nether-ceiling-void-damage-height: 126
+    nether-ceiling-void-damage-height: 0
     parrots-are-unaffected-by-player-movement: false
     fix-items-merging-through-walls: false
     keep-spawn-loaded: true
