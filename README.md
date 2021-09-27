@@ -12,7 +12,7 @@ Note: These configs are as close to vanilla/default behaviour as possible. With 
 
 <10 players - [Vanilla](https://www.minecraft.net/en-us/download/server/) | Standard minecraft software distributed by Mojang.
 
-10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) 
+10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) while bringing in a few optimisations.
 
 15-50 players - [Paper](https://papermc.io/) | Provides dupes and bug fixes over vanilla minecraft! Recently merged in Tuinity for a massive performance boost! <br />
 
