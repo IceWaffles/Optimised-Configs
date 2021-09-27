@@ -67,22 +67,22 @@ world-settings:
     verbose: false
     hopper-amount: 1
     dragon-death-sound-radius: 0
-    seed-village: (your custom seed)
-    seed-desert: (your custom seed)
-    seed-igloo: (your custom seed)
-    seed-jungle: (your custom seed)
-    seed-swamp: (your custom seed)
-    seed-monument: (your custom seed)
-    seed-shipwreck: (your custom seed)
-    seed-ocean: (your custom seed)
-    seed-outpost: (your custom seed)
-    seed-endcity: (your custom seed)
-    seed-slime: (your custom seed)
-    seed-bastion: (your custom seed)
-    seed-fortress: (your custom seed)
-    seed-mansion: (your custom seed)
-    seed-fossil: (your custom seed)
-    seed-portal: (your custom seed)
+    seed-village: 10387312
+    seed-desert: 14357617
+    seed-igloo: 14357618
+    seed-jungle: 14357619
+    seed-swamp: 14357620
+    seed-monument: 10387313
+    seed-shipwreck: 165745295
+    seed-ocean: 14357621
+    seed-outpost: 165745296
+    seed-endcity: 10387313
+    seed-slime: 987234911
+    seed-bastion: 30084232
+    seed-fortress: 30084232
+    seed-mansion: 10387319
+    seed-fossil: 14357921
+    seed-portal: 34222645
     max-tnt-per-tick: 100
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 5000
