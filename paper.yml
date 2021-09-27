@@ -59,7 +59,7 @@ settings:
     recipe-spam-increment: 1
     recipe-spam-limit: 20
   book-size:
-    page-max: 256
+    page-max: 2560
     total-multiplier: 0.98
   console:
     enable-brigadier-highlighting: true
