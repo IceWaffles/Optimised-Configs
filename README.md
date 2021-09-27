@@ -2,7 +2,7 @@
 
 Hi, I’m IceWaffles - you can also find me on discord at IceWaffles#3175 !
 I’m currently running a semi-vanilla survival server!
-I'll be uploading some basic files-extremely basic optimised configs for a vanilla (default minecraft survival) server.
+I'll be uploading some files-extremely basic optimised configs for a vanilla style (default minecraft survival) server.
 
 
 
