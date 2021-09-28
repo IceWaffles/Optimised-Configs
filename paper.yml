@@ -104,7 +104,7 @@ messages:
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
 timings:
-  url: https://timings.pl3x.net/
+  url: https://timings.aikar.co/
   really-enabled: false
   enabled: true
   verbose: true
