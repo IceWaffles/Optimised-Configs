@@ -14,17 +14,18 @@ config-version: 12
 settings:
   debug: false
   bungeecord: false
+  user-cache-size: 1000
   sample-count: 12
   player-shuffle: 0
-  user-cache-size: 1000
   save-user-cache-on-stop-only: false
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
-  log-villager-deaths: true
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: 4
+  log-villager-deaths: true
+  log-named-deaths: true
   attribute:
     maxHealth:
       max: 2048.0
@@ -32,39 +33,47 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+players:
+  disable-saving: false
 commands:
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
   log: true
   tab-complete: 0
   send-namespaced: true
-players:
-  disable-saving: false
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+messages:
+  restart: Server is restarting
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
-  worldeditregentempworld:
-    verbose: false
   default:
     verbose: false
+    enable-zombie-pigmen-portal-spawns: true
+    item-despawn-rate: 6000
+    view-distance: 5
+    zombie-aggressive-towards-villager: true
+    mob-spawn-range: 4
+    arrow-despawn-rate: 300
+    trident-despawn-rate: 1200
+    nerf-spawner-mobs: false
+    wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
     hopper-amount: 1
     dragon-death-sound-radius: 0
     seed-village: 10387312
@@ -84,21 +93,17 @@ world-settings:
     seed-fossil: 14357921
     seed-portal: 34222645
     max-tnt-per-tick: 100
-    enable-zombie-pigmen-portal-spawns: true
-    item-despawn-rate: 5000
-    view-distance: 5
-    wither-spawn-sound-radius: 0
-    arrow-despawn-rate: 300
-    trident-despawn-rate: 1200
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
-    mob-spawn-range: 4
     end-portal-sound-radius: 0
     max-entity-collisions: 2
     merge-radius:
+      item: 4.0
       exp: 6.0
-      item: 5.0
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -121,7 +126,7 @@ world-settings:
       monsters: 24
       raiders: 48
       misc: 10
-      water: 16
+      water: 12
       villagers: 32
       flying-monsters: 32
       villagers-work-immunity-after: 100
@@ -157,9 +162,3 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
