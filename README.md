@@ -10,6 +10,12 @@ Note: These configs are as close to vanilla/default behaviour as possible. With 
 
 ## Installation
 
+Use the files attached at the top of this page and copy and paste them into your own! For exampl, if you run paper, replace your `paper.yml` with the text from my `paper.yml` attached above. The same goes for the other two: replace your `spigot.yml` and `bukkit.yml` with text from my `spigot.yml` and `bukkit.yml` attached above. Of course, if you're running Spigot, then you only need to replace your `spigot.yml` and `bukkit.yml` as you don't have a `paper.yml`.
+
+
+
+## Server JAR
+
 <10 players - [Vanilla](https://www.minecraft.net/en-us/download/server/) | Standard minecraft software distributed by Mojang.
 
 10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) while bringing in a few optimisations.
