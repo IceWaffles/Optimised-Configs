@@ -106,7 +106,7 @@ messages:
 timings:
   url: https://timings.aikar.co/
   really-enabled: false
-  enabled: true
+  enabled: false
   verbose: true
   server-name-privacy: false
   hidden-config-entries:
