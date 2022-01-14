@@ -20,8 +20,8 @@ Use the files attached at the top of this page and copy and paste them into your
 
 10-15 players - [Spigot](https://www.spigotmc.org/) | Allows use of plugins! Based off Bukkit (now CraftBukkit) while bringing in a few optimisations.
 
-15-50 players - [Paper](https://papermc.io/) | Provides dupes and bug fixes over vanilla minecraft. Recently merged in Tuinity for a massive performance boost! <br />
+15-50 players - [Paper](https://papermc.io/) | Provides dupe and bug fixes over vanilla minecraft. Has merged in Tuinity for a massive performance boost! <br />
 
-50-100 players - [Airplane](https://airplane.gg/) | Insane performance and optimisations. Do NOT use unless you have a very large server and must have the extra performance.
+50-100 players - [Pufferfish](https://ci.pufferfish.host/job/Pufferfish-1.18/) | Insane performance and optimisations. Do NOT use unless you have a very large server and must have the extra performance.
 
-50-100 players - [Purpur](https://purpur.pl3x.net/downloads/) | Based off Airplane-only use if you need it's configuration options! Not recommended if you generally want a 'vanilla' MC experience. <br />
+50-100 players - [Purpur](https://purpur.pl3x.net/downloads/) | Based off Pufferfish-only use if you need it's configuration options! Not recommended if you generally want a 'vanilla' MC experience. <br />
