@@ -24,4 +24,4 @@ Use the files attached at the top of this page and copy and paste them into your
 
 50-100 players - [Pufferfish](https://ci.pufferfish.host/job/Pufferfish-1.18/) | Insane performance and optimisations. Do NOT use unless you have a very large server and must have the extra performance.
 
-50-100 players - [Purpur](https://purpur.pl3x.net/downloads/) | Based off Pufferfish-only use if you need it's configuration options! Not recommended if you generally want a 'vanilla' MC experience. <br />
+50-100 players - [Purpur](https://purpurmc.org) | Based off Pufferfish-only use if you need it's configuration options! Not recommended if you generally want a 'vanilla' MC experience. <br />
