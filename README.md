@@ -30,10 +30,9 @@ Use the files attached at the top of this page and copy and paste them into your
 
 ## Other
 
-TIMINGS
+
 Timings is a simple way to see exactly what is lagging your server! You probably will need to utilise it when asking for suppirt. As it's (v2) built into Paper, you just need to execute the `/timings paste` command and click the link you're provided with. If you don't understand yet, there is a detailed [video tutorial by Aikar](https://www.youtube.com/watch?v=T4J0A9l7bfQ) on how to read them.
   
-SPARK
 [Spark](https://github.com/lucko/spark) is a plugin that takes a deeper dive and allows you to profile your server's CPU and memory usage! You can read on how to use it [on its wiki](https://spark.lucko.me/docs/). 
 
 
