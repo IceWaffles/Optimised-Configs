@@ -51,8 +51,8 @@ settings:
     allow-headless-pistons-readme: This setting controls if players should be able
       to create headless pistons.
   watchdog:
-    early-warning-every: 5000
-    early-warning-delay: 10000
+    early-warning-every: 5000000
+    early-warning-delay: 10000000
   spam-limiter:
     tab-spam-increment: 1
     tab-spam-limit: 500
