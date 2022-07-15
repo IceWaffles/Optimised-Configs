@@ -8,9 +8,9 @@ Note: These configs are as close to vanilla/default behaviour as possible. With 
 
 
 
-## Installation [1.18.x]
+## Installation [1.19.x]
 
-Use the files attached at the top of this page and copy and paste them into your own! For example, if you run paper, replace your `paper.yml` with the text from my `paper.yml` attached above. The same goes for the other two: replace your `spigot.yml` and `bukkit.yml` with text from my `spigot.yml` and `bukkit.yml`. Of course, if you're running Spigot, then you only need to replace your `spigot.yml` and `bukkit.yml` as you don't have a `paper.yml`.
+Use the files attached at the top of this page and copy and paste them into your own! For example, if you run paper, replace your `paper.yml` with the text from my `paper-global.yml` and `paper-world-defaults.yml` attached above. The same goes for the other two: replace your `spigot.yml` and `bukkit.yml` with text from my `spigot.yml` and `bukkit.yml`. Of course, if you're running Spigot, then you only need to replace your `spigot.yml` and `bukkit.yml` as you don't have any paper config files.
 
 
 
