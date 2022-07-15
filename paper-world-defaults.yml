@@ -61,13 +61,15 @@ chunks:
     fireball: 10
     small_fireball: 10
     snowball: 10
+    trident: 10
+    wither_skull: 10
   fixed-chunk-inhabited-time: -1
   max-auto-save-chunks-per-tick: 24
   prevent-moving-into-unloaded-chunks: true
 collisions:
   allow-player-cramming-damage: false
   allow-vehicle-collisions: true
-  fix-climbing-bypassing-cramming-rule: false
+  fix-climbing-bypassing-cramming-rule: true
   max-entity-collisions: 2
   only-players-collide: false
 entities:
