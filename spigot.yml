@@ -66,8 +66,8 @@ world-settings:
     verbose: false
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
-    view-distance: default
-    simulation-distance: default
+    view-distance: 8
+    simulation-distance: 6
     zombie-aggressive-towards-villager: true
     mob-spawn-range: 4
     arrow-despawn-rate: 300
