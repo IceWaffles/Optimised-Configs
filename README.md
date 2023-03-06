@@ -1,8 +1,7 @@
 ## About
 
 Hi, I’m IceWaffles - you can also find me on discord at IceWaffles#7982 !
-I’m currently running a semi-vanilla survival server!
-I'll be uploading some files-extremely basic optimised configs for a vanilla style (default minecraft survival) server.
+These files are extremely basic optimised configs for a vanilla style (default minecraft survival) server. This will only optimise your server to a certain extent: usually, you might just need a faster host - if you need one, check out [Ember Host](https://ember.host).
 
 Note: These configs are as close to vanilla/default behaviour as possible. With my config, you'll notice no/negligible changes to the game other than performance improvements when compared to the default values! There's obviously heavier optimisation guides, but then you may start to notice some (minor) game changing things. For example, they may recommend to nerf spawner mobs, in which case they essentially lose their AI and no longer behave like normal mobs.
 
